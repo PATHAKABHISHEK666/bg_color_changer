@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 1.5s;
+  animation-direction: reverse;
+}
+
+button {
+  padding: 21px;
+  border-radius: 50%;
+  border: none;
+  margin-left: 10px;
+  margin-right: 9px;
+}
+#container {
+  background-color: rgba(245, 245, 245, 0.8);
+  position: absolute;
+  bottom: 2px;
+  width: 99vw;
+  padding: 8px;
+  margin-left: 8px;
+  border-radius: 20px;
+}
